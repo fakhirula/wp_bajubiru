@@ -1,0 +1,13 @@
+2022-12-10T13:46:14+00:00 CRITICAL Uncaught Error: Class "WPSEO_GSC" not found in C:\xampp\htdocs\baju-biru\wp-content\plugins\wordpress-seo\admin\menu\class-admin-menu.php:83
+Stack trace:
+#0 C:\xampp\htdocs\baju-biru\wp-content\plugins\wordpress-seo\admin\menu\class-admin-menu.php(32): WPSEO_Admin_Menu->get_submenu_pages()
+#1 C:\xampp\htdocs\baju-biru\wp-includes\class-wp-hook.php(308): WPSEO_Admin_Menu->register_settings_page('')
+#2 C:\xampp\htdocs\baju-biru\wp-includes\class-wp-hook.php(332): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\baju-biru\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\baju-biru\wp-admin\includes\menu.php(155): do_action('admin_menu', '')
+#5 C:\xampp\htdocs\baju-biru\wp-admin\menu.php(428): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\baju-biru\wp-admin\admin.php(158): require('C:\\xampp\\htdocs...')
+#7 C:\xampp\htdocs\baju-biru\wp-admin\options.php(19): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+  thrown in C:\xampp\htdocs\baju-biru\wp-content\plugins\wordpress-seo\admin\menu\class-admin-menu.php on line 83
+

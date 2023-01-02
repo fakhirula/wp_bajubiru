@@ -1,0 +1,2 @@
+2022-12-09T15:52:06+00:00 INFO Template setting migrated from C:/xampp/htdocs/baju-biru/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/templates/Simple to default/Simple
+2022-12-09T15:52:07+00:00 CRITICAL Table 'wp_bajubiru.wp_wcpdf_invoice_number' doesn't exist

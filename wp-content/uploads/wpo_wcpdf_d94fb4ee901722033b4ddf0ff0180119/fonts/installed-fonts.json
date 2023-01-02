@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "C:\/xampp\/htdocs\/baju-biru\/wp-content\/uploads\/wpo_wcpdf_d94fb4ee901722033b4ddf0ff0180119\/fonts\/OpenSans-Normal",
+        "bold": "C:\/xampp\/htdocs\/baju-biru\/wp-content\/uploads\/wpo_wcpdf_d94fb4ee901722033b4ddf0ff0180119\/fonts\/OpenSans-Bold",
+        "italic": "C:\/xampp\/htdocs\/baju-biru\/wp-content\/uploads\/wpo_wcpdf_d94fb4ee901722033b4ddf0ff0180119\/fonts\/OpenSans-Italic",
+        "bold_italic": "C:\/xampp\/htdocs\/baju-biru\/wp-content\/uploads\/wpo_wcpdf_d94fb4ee901722033b4ddf0ff0180119\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "C:\/xampp\/htdocs\/baju-biru\/wp-content\/uploads\/wpo_wcpdf_d94fb4ee901722033b4ddf0ff0180119\/fonts\/Segoe-Normal",
+        "bold": "C:\/xampp\/htdocs\/baju-biru\/wp-content\/uploads\/wpo_wcpdf_d94fb4ee901722033b4ddf0ff0180119\/fonts\/Segoe-Bold",
+        "italic": "C:\/xampp\/htdocs\/baju-biru\/wp-content\/uploads\/wpo_wcpdf_d94fb4ee901722033b4ddf0ff0180119\/fonts\/Segoe-Italic",
+        "bold_italic": "C:\/xampp\/htdocs\/baju-biru\/wp-content\/uploads\/wpo_wcpdf_d94fb4ee901722033b4ddf0ff0180119\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "C:\/xampp\/htdocs\/baju-biru\/wp-content\/uploads\/wpo_wcpdf_d94fb4ee901722033b4ddf0ff0180119\/fonts\/RobotoSlab-Normal",
+        "bold": "C:\/xampp\/htdocs\/baju-biru\/wp-content\/uploads\/wpo_wcpdf_d94fb4ee901722033b4ddf0ff0180119\/fonts\/RobotoSlab-Bold",
+        "italic": "C:\/xampp\/htdocs\/baju-biru\/wp-content\/uploads\/wpo_wcpdf_d94fb4ee901722033b4ddf0ff0180119\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "C:\/xampp\/htdocs\/baju-biru\/wp-content\/uploads\/wpo_wcpdf_d94fb4ee901722033b4ddf0ff0180119\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "C:\/xampp\/htdocs\/baju-biru\/wp-content\/uploads\/wpo_wcpdf_d94fb4ee901722033b4ddf0ff0180119\/fonts\/currencies",
+        "bold": "C:\/xampp\/htdocs\/baju-biru\/wp-content\/uploads\/wpo_wcpdf_d94fb4ee901722033b4ddf0ff0180119\/fonts\/currencies",
+        "italic": "C:\/xampp\/htdocs\/baju-biru\/wp-content\/uploads\/wpo_wcpdf_d94fb4ee901722033b4ddf0ff0180119\/fonts\/currencies",
+        "bold_italic": "C:\/xampp\/htdocs\/baju-biru\/wp-content\/uploads\/wpo_wcpdf_d94fb4ee901722033b4ddf0ff0180119\/fonts\/currencies"
+    }
+}
